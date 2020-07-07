@@ -4,8 +4,8 @@
 ####################################
 #
 title: "0seob's Blog"
-email:
-description: 이영섭의 블로그입니다.
+email: "changas9263@gmail.com"
+description: "이영섭의 블로그입니다."
 url: "0seob.github.io" # the base hostname & protocol for your site
 keywords: ["blog", "jekyll"]
 
@@ -14,7 +14,7 @@ keywords: ["blog", "jekyll"]
 # Jekyll configuration
 ####################################
 #
-timezone:          Asia/Seou;
+timezone:          Asia/Seoul;
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
@@ -33,14 +33,14 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
+  name: "0seob"
   avatar: leonids-logo.png
-  job: "A jekyll theme"
-  bio: "A simple and awesome blog theme powered by jekyll."
+  job: "Student"
+  bio: "이영섭의 블로그입니다."
   email:
   disqus-shortname:
   twitter: #username
-  facebook: #username
+  facebook: "https://www.facebook.com/youngsub.lee.946" #username
   google:
     plus: #username
     analytics:
@@ -48,7 +48,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: "github.com/0seob" #username
   gitlab: #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
