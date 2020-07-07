@@ -3,10 +3,10 @@
 # Site wide configuration
 ####################################
 #
-title: 0seob's Blog
+title: "0seob's Blog"
 email:
-description: A simple and awesome blog theme powered by jekyll.
-url: # the base hostname & protocol for your site
+description: 이영섭의 블로그입니다.
+url: "0seob.github.io" # the base hostname & protocol for your site
 keywords: ["blog", "jekyll"]
 
 #
@@ -14,7 +14,7 @@ keywords: ["blog", "jekyll"]
 # Jekyll configuration
 ####################################
 #
-timezone:          Europe/Paris
+timezone:          Asia/Seou;
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
