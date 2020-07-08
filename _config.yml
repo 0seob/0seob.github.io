@@ -7,6 +7,7 @@ title: "0seob's Blog"
 email: "changas9263@gmail.com"
 description: "이영섭의 블로그입니다."
 url: "0seob.github.io" # the base hostname & protocol for your site
+baseurl:
 keywords: ["blog", "jekyll"]
 
 #
